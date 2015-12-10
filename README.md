@@ -38,7 +38,7 @@ class Greeter {
 }
 ```
 
-You can see that nothing has been changed in the code, this is because no transforms are applied to the code (and in this case none are needed)
+You can see that nothing has been changed in the code, this is because no transforms are applied to the code
 
 * [Babel CLI Usage Docs](https://babeljs.io/docs/usage/cli/)
 
